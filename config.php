@@ -7,8 +7,8 @@ $dbname = "mydatabase";
 
 // SMTP Configuration (for OTP emails)
 define('SMTP_HOST', 'smtp.gmail.com');
-define('SMTP_USER', 'kiranchand.vtk@gmail.com');
-define('SMTP_PASS', 'wkuv gadu bxlp iwge');
+define('SMTP_USER', '<your mail>');
+define('SMTP_PASS', '<Your app password>');
 define('SMTP_SECURE', 'tls');
 define('SMTP_PORT', 587);
 
