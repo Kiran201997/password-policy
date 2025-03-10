@@ -1,0 +1,3 @@
+Database: Run the SQL commands to create/update the users table.
+PHPMailer: Install via Composer:
+composer require phpmailer/phpmailer
